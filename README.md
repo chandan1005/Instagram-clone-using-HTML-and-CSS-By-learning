@@ -1,1 +1,1 @@
-# Instagram-clone-using-HTML-and-CSS-By-learning
+# Instagram-clone-using-HTML-and-CSS-Throught-learning
