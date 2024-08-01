@@ -1,8 +1,17 @@
 .dark{
     background-color: black;
-    color:white;
+    color:azure;
 }
 .light{
     background-color: white;
     color: black;
+}
+.container{
+    display: flex;
+}
+#time{
+    text-align: center;
+    width:120px;
+    height:50px;
+    border:2px solid rgb(155, 144, 144);
 }
